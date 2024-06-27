@@ -1,7 +1,7 @@
 // Nothing
 
 public class Nothing {
-    public static void main(String[] nothing) {
+    public static void main(String[] args) {
         System.out.println("Nothing");
     }
 }
