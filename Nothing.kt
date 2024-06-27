@@ -1,6 +1,5 @@
 // Nothing
 
-fun main() {
-    val Nothing = "Nothing";
-    println(Nothing);
+fun main(args: Array<String>) {
+    println("Nothing")
 }

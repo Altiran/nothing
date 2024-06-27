@@ -1,0 +1,5 @@
+<!-- Nothing -->
+
+<?php
+    echo "Nothing";
+?>
