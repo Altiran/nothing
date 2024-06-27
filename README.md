@@ -1,4 +1,4 @@
-# nothing
+# Nothing
 
 - This repo contains nothing.
 - This project is for nothing.

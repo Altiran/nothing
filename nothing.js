@@ -1,2 +1,2 @@
-const nothing = "nothing";
-console.log(nothing);
+const Nothing = "Nothing";
+console.log(Nothing);
