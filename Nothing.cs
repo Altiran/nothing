@@ -1,3 +1,5 @@
+// Nothing
+
 using System;
 
 namespace NothingNothing

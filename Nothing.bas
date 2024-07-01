@@ -1,0 +1,3 @@
+' Nothing
+
+PRINT "Nothing"
