@@ -113,8 +113,22 @@
                                (_____|
 ```
 
-## Acknowledgements
+# Copyright Information
 
-- This project is a revived version of [Anurag Hazra's Nothing Project](https://github.com/anuraghazra/Nothing).
+This project, "Nothing," is an open-source software project. It is licensed under The Unlicense, which means it is released into the public domain, allowing anyone to use, modify, and distribute the software freely without any restrictions. This section outlines the license details, verification process, and acknowledgements related to the project.
+
+## License
+
+"Nothing" is published under The Unlicense. See [UNLICENSE.md](https://github.com/Altiran/nothing/blob/nothing/UNLICENSE.md) for details.
+
+## Verify WAIVER.md using GPG
+
+To ensure the authenticity and integrity of the WAIVER.md file, you can verify it using GPG. Below is a screenshot showing the verification process:
+
+![GPG Verification Screenshot](https://raw.githubusercontent.com/Altiran/nothing/nothing/.github/gpg_verify.png)
+
+## Acknowledgement
+
+This project is a revived version of [Anurag Hazra's Nothing Project](https://github.com/anuraghazra/Nothing). We acknowledge and appreciate the original work done by Anurag Hazra and aim to build upon it while respecting the original contributions.
 
 <!-- MADE BY ALTIRAN WITH NOTHING BUT ❤️ -->
