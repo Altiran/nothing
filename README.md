@@ -113,4 +113,8 @@
                                (_____|
 ```
 
+## Acknowledgements
+
+- This project is a revived version of [Anurag Hazra's Nothing Project](https://github.com/anuraghazra/Nothing).
+
 <!-- MADE BY ALTIRAN WITH NOTHING BUT ❤️ -->
