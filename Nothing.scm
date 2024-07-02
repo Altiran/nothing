@@ -1,0 +1,4 @@
+; Nothing
+
+(display "Nothing")
+(newline)
