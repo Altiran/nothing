@@ -1,14 +1,23 @@
 # Nothing
 
 - This repo contains nothing.
+
 - This project is for nothing.
+
 - There is nothing to see here.
+
 - Absolutely nothing is accomplished.
+
 - Expect nothing, and you won't be disappointed.
+
 - Contributions of nothing are welcome.
+
 - Documentation is nonexistent.
+
 - The installation process is nothing special.
+
 - This README is about nothing.
+
 - Enjoy doing nothing with this project!
 
 ```
@@ -119,13 +128,13 @@ This project, "Nothing," is an open-source software project. It is licensed unde
 
 ## License
 
-"Nothing" is published under The Unlicense. See [UNLICENSE.md](https://github.com/Altiran/nothing/blob/nothing/UNLICENSE.md) for details.
+"Nothing" is published under The Unlicense. See [UNLICENSE](https://github.com/Altiran/nothing/blob/nothing/UNLICENSE) for details.
 
-## Verify WAIVER.md using GPG
+## Verify the WAIVER using GPG
 
-To ensure the authenticity and integrity of the WAIVER.md file, you can verify it using GPG. Below is a screenshot showing the verification process:
+To ensure the authenticity and integrity of the WAIVER file, you can verify it using GPG. Below is a screenshot showing the verification process:
 
-![GPG Verification Screenshot](https://raw.githubusercontent.com/Altiran/nothing/nothing/.github/gpg_verify.png)
+![GPG Verification](https://raw.githubusercontent.com/Altiran/nothing/nothing/.github/waiver_gpg.png)
 
 ## Acknowledgement
 
